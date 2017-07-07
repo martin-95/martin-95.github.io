@@ -7,13 +7,13 @@
 	-webkit-text-size-adjust:100%;
 	-ms-text-size-adjust:100%
 }
-li.farbe1 {
+li.farbe1:hover {
 	background-color:#00aaff;
 }
-li.farbe2 {
+li.farbe2:hover {
 	background-color:#ff7777;
 }
-li.farbe3 {
+li.farbe3:hover {
 	background-color:#00aabb;
 }
 #moeglichkeiten{
