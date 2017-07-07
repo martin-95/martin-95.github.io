@@ -7,6 +7,9 @@
 	-webkit-text-size-adjust:100%;
 	-ms-text-size-adjust:100%
 }
+h2.ueberschrift {
+	margin-left:25px;
+}
 li.farbe1:hover {
 	background-color:#00aaff;
 }
