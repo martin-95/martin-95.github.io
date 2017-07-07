@@ -7,6 +7,9 @@
 	-webkit-text-size-adjust:100%;
 	-ms-text-size-adjust:100%
 }
+p.footertext {
+	color:#9d9d9d;
+}
 p.einleitungstext {
 	margin-bottom:22px;
 }
