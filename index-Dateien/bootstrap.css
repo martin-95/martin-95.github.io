@@ -7,6 +7,10 @@
 	-webkit-text-size-adjust:100%;
 	-ms-text-size-adjust:100%
 }
+img.navbarbild {
+	margin-top:10px;
+	margin-right:10px;
+}
 div.navbar-logo {
 	float:left;
 }
