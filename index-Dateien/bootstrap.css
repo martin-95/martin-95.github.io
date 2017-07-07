@@ -10,6 +10,9 @@
 h2.ueberschrift {
 	margin-left:15px;
 }
+h2.einleitungsueberschrift{
+	margin-bottom:15px;
+}
 li.farbe1:hover {
 	background-color:#00aaff;
 }
