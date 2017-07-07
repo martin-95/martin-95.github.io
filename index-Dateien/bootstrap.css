@@ -1456,6 +1456,9 @@ pre code {
 	max-height:340px;
 	overflow-y:scroll
 }
+.navmenue {
+	width:100%;
+}
 .container {
 	/*background-color:#0000ff;*/
 	padding-right:15px;
